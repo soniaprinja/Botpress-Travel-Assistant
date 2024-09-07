@@ -42,5 +42,7 @@ This chatbot significantly simplifies the travel planning process by offering ta
 
 **Try out my chatbot :** [chatbot](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=091e05ad-76ab-48b9-a02a-24ad43851f8d)
 
-<iframe width="560" height="315" src="BotpressTravelAssistantRecording.mp4" frameborder="0" allowfullscreen></iframe>
+**Demo video :** [Watch the chatbot demo video](https://soniaprinja.github.io/BotpressTravelAssistantRecording.mp4)
+
+
 
