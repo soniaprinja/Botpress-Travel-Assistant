@@ -41,3 +41,6 @@ More than 9 people
 This chatbot significantly simplifies the travel planning process by offering tailored advice based on user input, making it a valuable tool for both solo travelers and large groups. The seamless interaction and dynamic logic ensure that users receive the best possible travel advice without needing extensive research.
 
 **Try out my chatbot :** [chatbot](https://cdn.botpress.cloud/webchat/v2/shareable.html?botId=091e05ad-76ab-48b9-a02a-24ad43851f8d)
+
+<iframe width="560" height="315" src="BotpressTravelAssistantRecording.mp4" frameborder="0" allowfullscreen></iframe>
+
